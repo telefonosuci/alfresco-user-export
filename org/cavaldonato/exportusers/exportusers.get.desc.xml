@@ -1,5 +1,5 @@
 <webscript>
-   <shortname>Smurfitkappa - Export user csv</shortname>
+   <shortname>Export user csv</shortname>
    <description>Export user in csv format for import</description>
    <url>/export-user/{group}</url>
    <format default="html">argument</format>
